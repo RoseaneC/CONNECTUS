@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner ImpactXP" width="600" />
+  <img src="images/banner.png" alt="Banner CONNECTUS" width="600" />
 </p>
 
-<h1 align="center">ImpactXP 🚀</h1>
+<h1 align="center">CONNECTUS 🚀</h1>
 
 <p align="center"><strong>Plataforma gamificada de impacto social com tokens, missões, ranking e sorteio de NFTs simulados.</strong></p>
 
@@ -12,7 +12,7 @@
 
 ## 🌍 Sobre o projeto
 
-**ImpactXP** é uma plataforma gamificada que une **engajamento social**, **educação**, e o universo **Web3**, com foco em jovens de periferia.  
+**CONNECTUS** é uma plataforma gamificada que une **engajamento social**, **educação**, e o universo **Web3**, com foco em jovens de periferia.  
 Criado durante o Hackathon **Meridian x Stellar**, o projeto tem como missão prevenir a **desistência escolar, profissional e emocional** entre jovens.
 
 Através de um ambiente digital divertido e com propósito, os usuários acumulam XP e tokens por ações reais que geram impacto – como ir à escola, compartilhar conhecimento, reciclar lixo ou ajudar outras pessoas.
@@ -79,7 +79,7 @@ Através de um ambiente digital divertido e com propósito, os usuários acumula
 
 ## ✨ Autor(a)
 
-Feito com 💜 por [Roseane Carreiro](https://github.com/RoseaneC) — criadora do projeto **ImpactXP**, sonhadora que acredita no poder da tecnologia com propósito.
+Feito com 💜 por [Roseane Carreiro](https://github.com/RoseaneC) — criadora do projeto **CONNECTUS**, sonhadora que acredita no poder da tecnologia com propósito.
 
 ---
 
